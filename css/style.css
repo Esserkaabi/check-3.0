@@ -1,0 +1,37 @@
+body{
+    background-color: azure;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    text-align: center;
+
+}
+h2{
+    color: darkcyan;
+
+}
+h3{
+    color: blueviolet;
+
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+table{
+    border-color: cadetblue;
+    width: 800px;
+}
+
+.container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.link-in{
+    color:blueviolet;
+
+}
+
+
