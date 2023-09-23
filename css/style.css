@@ -33,5 +33,37 @@ table{
     color:blueviolet;
 
 }
+.messi{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 600px;
+    border-radius: 20px;
+}
+.mass{
+    border-radius: 20px;
+    width: 600px;
+}
+audio{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
 
+}
+.navbar{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
 
+}
+.navv{
+    color: black    ;
+
+}
+nav{
+    position: sticky;
+    top: 0px;
+    background-color: aquamarine;
+}
